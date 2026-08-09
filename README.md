@@ -30,6 +30,7 @@ Attendees should arrive with:
 Complete the following:
 
 1. [`01-Setup.md`](./01-Setup.md) — install the security tooling (jadx).
+2. [`02-Android-Studio-Setup.md`](./02-Android-Studio-Setup.md) — install Android Studio and an AVD.
 
 ## References
 
